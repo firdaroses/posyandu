@@ -1,0 +1,23 @@
+# File model (JANGAN diupload ke GitHub publik!)
+knn_model.pkl
+scaler.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
